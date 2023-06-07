@@ -1,1 +1,1 @@
-more of my deveop journey
+My second deveops readme
